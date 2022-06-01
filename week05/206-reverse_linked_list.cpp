@@ -1,5 +1,6 @@
 // TC - O(n)
 // MC - O(n)
+// n = number of nodes
 class Solution
 {
 public:

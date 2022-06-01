@@ -1,5 +1,6 @@
 // TC - O(n)
 // MC - O(1)
+// n = number of nodes
 /**
  * Definition for singly-linked list.
  * struct ListNode {

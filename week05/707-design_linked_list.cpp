@@ -1,3 +1,12 @@
+/* TC -
+ get - O(n)
+ addathead - O(1) 
+ addattail - O(n)
+ addatindex - O(n)
+ deleteatindex - O(n)
+ MC - O(1)
+ here n = number of nodes
+*/
 class MyLinkedList
 {
 public:
